@@ -1,9 +1,9 @@
 #### Website Designer & Developer 
 ![Web Designer & Developer](https://github.com/HanfaNaseer/Portfolio/blob/main/Wordpress%20Expert.png)
 
-Hi ,I have been a successful freelancer at various platforms with over 4 years of experience in WordPress, having more than 100+ unique satisfied clients. My domains are Web deisgn, Web development, Design Consultancy and Writing Services to my Customers in order to help them Grow their Business.
+Hi ,I have been a successful freelancer at various platforms with over 4 years of experience in WordPress, having more than 100+ unique satisfied clients. My domains are
+WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites & helping my clients in website speed optimization in order to help them Grow their Business.
 
-  
 - 💼 any freelance work? do reach, [email](mailto:hanfanaseer5@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 - 🔭 I’m currently working on upwork & Fiverr. 
