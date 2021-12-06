@@ -19,10 +19,21 @@ Hi ,I have been a successful freelancer at various platforms with over 4 years o
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text-thumbnail.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/download%20(1).png"></code>
 
-📊 **Wordpress Skills:**
+📊 **Wordpress Webiste Design & Development:**
 
-- Elementor Builder
-- Oxygen Builder
-- Wp Bakery
-- Brizy and much more       
+• Ability to revamp existing websites, based on a new design.
+• Membership website development.
+• Events website development.
+• Booking website development.
+• Healthcare website development.
+• Real Estate website development.
+• Portfolio website development.
+• Restaurant / Food delivery website development.
+• WordPress Development / PHP.
+• Integrate Google Analytics, AutoResponders, and other similar services like CDN, etc.
+• Convert PSD to Oxygen/Elementor/wordpress.
+• Convert Figma to Oxygen/Elementor/wordpress.
+• WordPress Theme Customization.
+• Woocommerce Customization and Custom Development.
+• Divi, Avada, Fusion Builder, Visual Composer,Oxygen builder ,ux/ui builder /Elementor, WP Bakery, Contact Form, Themeforest theme setup, Child theme setup.   
 
