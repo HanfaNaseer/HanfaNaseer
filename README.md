@@ -21,19 +21,18 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 📊 **Wordpress Webiste Design & Development:**
 
-• Ability to revamp existing websites, based on a new design.
-• Membership website development.
-• Events website development.
-• Booking website development.
-• Healthcare website development.
-• Real Estate website development.
-• Portfolio website development.
-• Restaurant / Food delivery website development.
-• WordPress Development / PHP.
-• Integrate Google Analytics, AutoResponders, and other similar services like CDN, etc.
-• Convert PSD to Oxygen/Elementor/wordpress.
-• Convert Figma to Oxygen/Elementor/wordpress.
-• WordPress Theme Customization.
-• Woocommerce Customization and Custom Development.
-• Divi, Avada, Fusion Builder, Visual Composer,Oxygen builder ,ux/ui builder /Elementor, WP Bakery, Contact Form, Themeforest theme setup, Child theme setup.   
-
+- Ability to revamp existing websites, based on a new design. 
+- Membership website development.
+- Events website development.
+- Booking website development.
+- Healthcare website development.
+- Real Estate website development.
+- Portfolio website development.
+- Restaurant / Food delivery website development.
+- WordPress Development / PHP.
+- Integrate Google Analytics, AutoResponders, and other similar services like CDN, etc.
+- Convert PSD to Oxygen/Elementor/wordpress.
+- Convert Figma to Oxygen/Elementor/wordpress.
+- WordPress Theme Customization.
+- Woocommerce Customization and Custom Development.
+- Divi, Avada, Fusion Builder, Visual Composer,Oxygen builder ,ux/ui builder /Elementor, WP Bakery, Contact Form, Themeforest theme setup, Child theme setup.   
