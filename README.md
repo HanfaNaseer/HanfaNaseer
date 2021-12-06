@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Hanfa Naseer
 #### Web Designer & Developer
-![Web Designer & Developer](https://github.com/HanfaNaseer/Portfolio/blob/main/GoogLe%20Map.jpg)
+![Web Designer & Developer](https://github.com/HanfaNaseer/Portfolio/blob/main/Wordpress%20Expert.png)
 
 Hi ,I have been a successful freelancer at various platforms with over 4 years of experience in WordPress, having more than 100+ unique satisfied clients. My domains are Web deisgn, Web development, Design Consultancy and Writing Services to my Customers in order to help them Grow their Business.
 
