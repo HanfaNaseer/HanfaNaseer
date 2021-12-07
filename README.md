@@ -63,7 +63,5 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
  
  | First Header  | Second Header |
 | ------------- | ------------- |
-| <a href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
- <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" width="400" ></a>    | <a href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
- <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" width="400" ></a>    |
+| <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" >| <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" >  |
 | Content Cell  | Content Cell  |
