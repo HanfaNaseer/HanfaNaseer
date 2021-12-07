@@ -52,31 +52,31 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 - Divi, Avada, Fusion Builder, Visual Composer,Oxygen builder ,ux/ui builder /Elementor, WP Bakery, Contact Form, Themeforest theme setup, Child theme setup.   
 
 
-## Landing Pages Porfolio
+## Recently Designed Landing Pages | WordPress
 
 
-<a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+<a align="right" href="https://manderlycondo.com/" target="_blank" style="margin-right:20px;">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/19.jpg" alt="Place order on fiverr" width="400" ></a>     
 
-<a align="left" href="https://manderlycondo.com/" target="_blank">
+<a align="left" href="https://hrmegamarket.pk/" target="_blank">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/18.jpg" alt="Place order on upwork" width="400"></a>
  
- <a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+ <a align="right" href="https://shop.kettley.in/peel" target="_blank" style="margin-right:20px;">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/17.jpg" alt="Place order on fiverr" width="400" ></a>     
 
 
-## Wordpress Websites Porfolio
+## Recently Designed Full Website Creation | WordPress
 
 
-<a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+<a align="right" href="https://luxuryco.com.au/" target="_blank" style="margin-right:20px;">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/15.jpg" alt="Place order on fiverr" width="400" ></a>     
 
-<a align="left" href="https://manderlycondo.com/" target="_blank">
+<a align="left" href="https://tobblog.com/" target="_blank">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/16.jpg" alt="Place order on upwork" width="400"></a>
  
- <a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+ <a align="right" href="https://bearlakegold.com/" target="_blank" style="margin-right:20px;">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/20.jpg" alt="Place order on fiverr" width="400" ></a>    
  
-  <a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+  <a align="right" href="https://lukasremovals.co.uk/" target="_blank" style="margin-right:20px;">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/21.jpg" alt="Place order on fiverr" width="400" ></a>    
 
