@@ -1,4 +1,4 @@
-#### Website Designer & Developer 
+## Website Designer & Developer
 ![Web Designer & Developer](https://github.com/HanfaNaseer/Portfolio/blob/main/Wordpress%20Expert.png)
 
 Hi ,I have been a successful freelancer at various platforms with over 4 years of experience in WordPress, having more than 100+ unique satisfied clients. My domains are
@@ -13,7 +13,7 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 
 
-## Languages and Tools:
+## Languages and Tools
 
 
 
@@ -31,7 +31,7 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 
 
-## Wordpress Webiste Design & Development:**
+## Wordpress Webiste Design & Development**
 
 
 
