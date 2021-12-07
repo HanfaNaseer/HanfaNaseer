@@ -14,12 +14,15 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 ## &#x270d; languages and tools:
 
+
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/html.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/css-3-logo.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text-thumbnail.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/download%20(1).png"></code>
 
-📊 **Wordpress Webiste Design & Development:**
+
+## &#x270d; Wordpress Webiste Design & Development:**
+
 
 - Ability to revamp existing websites, based on a new design. 
 - Membership website development.
