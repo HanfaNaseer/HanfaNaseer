@@ -48,7 +48,7 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 - Convert PSD to Oxygen/Elementor/wordpress.
 - Convert Figma to Oxygen/Elementor/wordpress.
 - WordPress Theme Customization.
-- Woocommerce Customization and Custom Development.
+- Woocommerce Customization.
 - Divi, Avada, Fusion Builder, Visual Composer,Oxygen builder ,ux/ui builder /Elementor, WP Bakery, Contact Form, Themeforest theme setup, Child theme setup.   
 
 
