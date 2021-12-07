@@ -54,17 +54,9 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 ## Landing Pages Porfolio**
 
-| <a align="right" href="https://hrmegamarket.pk/" target="_blank">
- <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" 
-      alt="Place order on fiverr" width="400" ></a> | <a align="right" href="https://hrmegamarket.pk/" target="_blank">
- <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" width="400" ></a> | aaaaaaaaaaaaaaaaaaaaaaaaaa |
-|-------------------------------------|--------------------------|----------------------------|
-| bbbbbbbbbbbbbbbbbbbbbbbbbb          | bbbbbbbbbbbbb            | bbbbbbbbbb                 |
-|                                     |                          |                            |
-|                                     |                          |                            |
 
-<a align="right" href="https://hrmegamarket.pk/" target="_blank">
- <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" width="400" ></a>
+<a align="right" href="https://hrmegamarket.pk/" target="_blank" style="margin-right:20px;">
+ <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Portfolio%20Elementor.jpg" alt="Place order on fiverr" width="400" ></a>     
 
 <a align="left" href="https://manderlycondo.com/" target="_blank">
  <img src="https://github.com/HanfaNaseer/Portfolio/blob/main/Real%20Estate%20%20Elementor.jpg" alt="Place order on upwork" width="400"></a>
