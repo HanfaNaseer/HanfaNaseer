@@ -31,7 +31,7 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 
 
 
-## &#x1f4c8; Wordpress Webiste Design & Development:**
+## Wordpress Webiste Design & Development:**
 
 
 
