@@ -20,11 +20,14 @@ WordPress , managing Portfolio, Real estate, Landing Pages & E-commerce websites
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/html.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/css-3-logo.png"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/js.png"></code>
-<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/download%20(1).png"></code>
-code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/Plugin.png"></code>
-<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/oxygen.jpg"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/png-clipart-website-development-programming-language-computer-programming-logo-php-program-logo-blue-text-thumbnail.png"></code>
+<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/database.jpg"></code>
 <code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/download%20(1).png"></code>
+code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/plugin.png"></code>
+<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/oxygen.jpg"></code>
+<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/woocomerce.png"></code>
+<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/wpbakery.jpg"></code>
+<code><img height="40" src="https://github.com/HanfaNaseer/Portfolio/blob/main/elementor.png"></code>
 
 
 
